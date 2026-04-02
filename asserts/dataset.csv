@@ -1,0 +1,51 @@
+skills,experience_level,career_label,selection_status
+"Python;SQL;Pandas",Beginner,Data Scientist,Selected
+"Python;HTML;CSS;JavaScript",Intermediate,Web Developer,Selected
+"Java;SQL;Spring",Intermediate,Backend Developer,Selected
+"HTML;CSS",Beginner,Web Developer,Not Selected
+"Python;Machine Learning;Pandas",Advanced,Data Scientist,Selected
+"JavaScript;React;Node.js",Intermediate,Frontend Developer,Selected
+"C;C++",Beginner,Software Engineer,Not Selected
+"Python;SQL;Machine Learning",Advanced,Data Scientist,Selected
+"HTML;CSS;JavaScript",Beginner,Web Developer,Selected
+"Java;Spring;Hibernate",Advanced,Backend Developer,Selected
+"Python;NumPy;Pandas",Intermediate,Data Scientist,Selected
+"React;JavaScript;CSS",Intermediate,Frontend Developer,Selected
+"Python;Deep Learning;TensorFlow",Advanced,ML Engineer,Selected
+"SQL;Excel",Beginner,Data Analyst,Not Selected
+"Python;SQL;Power BI",Intermediate,Data Analyst,Selected
+"JavaScript;Node.js;MongoDB",Intermediate,Backend Developer,Selected
+"HTML;CSS;Bootstrap",Beginner,Frontend Developer,Not Selected
+"Python;NLP;Machine Learning",Advanced,AI Engineer,Selected
+"C++;Data Structures",Beginner,Software Engineer,Not Selected
+"Java;Microservices;Spring Boot",Advanced,Backend Developer,Selected
+"Python;SQL;Tableau",Intermediate,Data Analyst,Selected
+"React;Redux;JavaScript",Advanced,Frontend Developer,Selected
+"Python;Flask;SQL",Intermediate,Backend Developer,Selected
+"Machine Learning;Python;Scikit-learn",Advanced,ML Engineer,Selected
+"HTML;CSS;JavaScript",Beginner,Web Developer,Selected
+"Python;Pandas;Visualization",Intermediate,Data Analyst,Selected
+"JavaScript;Angular;CSS",Intermediate,Frontend Developer,Selected
+"Python;Deep Learning;Keras",Advanced,AI Engineer,Selected
+"SQL;Power BI;Excel",Beginner,Data Analyst,Not Selected
+"Python;Django;SQL",Intermediate,Backend Developer,Selected
+"React;JavaScript;API",Intermediate,Frontend Developer,Selected
+"Python;Statistics;Machine Learning",Advanced,Data Scientist,Selected
+"C;Data Structures",Beginner,Software Engineer,Not Selected
+"Java;Spring Boot;REST API",Advanced,Backend Developer,Selected
+"Python;NLP;Deep Learning",Advanced,AI Engineer,Selected
+"HTML;CSS;JavaScript",Beginner,Frontend Developer,Not Selected
+"Python;SQL;Data Visualization",Intermediate,Data Analyst,Selected
+"JavaScript;Vue.js;CSS",Intermediate,Frontend Developer,Selected
+"Python;Reinforcement Learning",Advanced,AI Engineer,Selected
+"SQL;Excel;Power BI",Beginner,Data Analyst,Not Selected
+"Python;Flask;REST API",Intermediate,Backend Developer,Selected
+"Machine Learning;TensorFlow;Python",Advanced,ML Engineer,Selected
+"HTML;CSS;Bootstrap",Beginner,Web Developer,Not Selected
+"Python;Pandas;NumPy",Intermediate,Data Scientist,Selected
+"JavaScript;React;Redux",Advanced,Frontend Developer,Selected
+"Python;Deep Learning;NLP",Advanced,AI Engineer,Selected
+"SQL;Tableau;Excel",Beginner,Data Analyst,Not Selected
+"Python;Django;REST API",Intermediate,Backend Developer,Selected
+"React;JavaScript;CSS",Intermediate,Frontend Developer,Selected
+"Python;Statistics;Data Mining",Advanced,Data Scientist,Selected
