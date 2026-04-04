@@ -48,4 +48,4 @@ skills,experience_level,career_label,selection_status
 "SQL;Tableau;Excel",Beginner,Data Analyst,Not Selected
 "Python;Django;REST API",Intermediate,Backend Developer,Selected
 "React;JavaScript;CSS",Intermediate,Frontend Developer,Selected
-"Python;Statistics;Data Mining",Advanced,Data Scientist,Selected
+"Python;Statistics;Data Mining",Advanced,Data Scientist,Selected python -m streamlit run app.py
