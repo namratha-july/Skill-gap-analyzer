@@ -10,7 +10,7 @@ mlb = joblib.load("mlb.pkl")
 le = joblib.load("label_encoder.pkl")
 exp_encoder = joblib.load("exp_encoder.pkl")
 
-st.title(" Student Skill Gap Analyzer")
+st.title("🎯 Student Skill Gap Analyzer")
 
 skills_input = st.text_input("Enter your skills (comma separated)")
 experience = st.selectbox("Experience Level", ["Beginner", "Intermediate", "Advanced"])
